@@ -1,0 +1,434 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryal of witchcraft: or, Witchcraft arraign'd and condemn'd. In some answers to a few questions anent witches and witchcraft.  Wherein is shewed, how to know if one be a witch, as also when one is bewitched: with some observations upon the witches mark, their compact with the Devil, the white witches &amp;c.</title>
+            <author>Bell, John, fl. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01557</idno>
+            <idno type="STC">Wing B1800AA</idno>
+            <idno type="STC">ESTC R172698</idno>
+            <idno type="EEBO-CITATION">52211691</idno>
+            <idno type="OCLC">ocm 52211691</idno>
+            <idno type="VID">175421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175421)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2733:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryal of witchcraft: or, Witchcraft arraign'd and condemn'd. In some answers to a few questions anent witches and witchcraft.  Wherein is shewed, how to know if one be a witch, as also when one is bewitched: with some observations upon the witches mark, their compact with the Devil, the white witches &amp;c.</title>
+                  <author>Bell, John, fl. 1697.</author>
+               </titleStmt>
+               <extent>[2], 3-23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n. ,</publisher>
+                  <pubPlace>[Glasgow? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>MS note on title page: by: Mr. John Bell.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Witchcraft in the Bible --  Early works to 1800.</term>
+               <term>Witchcraft --  Scotland --  Early works to 1800.</term>
+               <term>Witches --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175421:1" rendition="simple:additions"/>
+            <p>The Tryal of WITCHCRAFT OR, WITCHCRAFT Arraign'd and Condemn'd.</p>
+            <p>In ſome Anſwers to a few Queſtions anent <hi>Witches</hi> and <hi>Witchcraft.</hi>
+            </p>
+            <p>Wherein is ſhewed, how to know if one be a <hi>Witch,</hi> as alſo when one is bewitched: with ſome Obſervations upon the <hi>Witches</hi> Mark, their compact with the Devil, the White <hi>Witches</hi> &amp;c.</p>
+            <p>
+               <add>by: M<hi rend="sup">r.</hi> John Bell.</add>
+            </p>
+            <q>
+               <bibl>Exod. 22.18.</bibl> 
+               <p>Thou ſhalt not ſuffer a Witch to live.</p>
+            </q>
+            <q>
+               <p>It is advantagious to have many engaged in writing on the ſame Subject, even though they ſhould ſay little more then what is ſaid by others.</p> 
+               <bibl>
+                  <hi>Mr. Durham</hi> on the <hi>Revelation.</hi> Digreſs. 3. Page 63.</bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:175421:2"/>
+            <pb facs="tcp:175421:2"/>
+            <head>Le<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>Friend.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>HAving heard ſtrange things reported of Witch-craft and Witches: I de<g ref="char:EOLhyphen"/>ſire to know from you, what ſa<g ref="char:EOLhyphen"/>tisfaction you can give me in an<g ref="char:EOLhyphen"/>ſwer to the following <hi>Queries,</hi> wherewith the mouths of People are on that occaſion ſo much filled: take them thus.</p>
+            <p>
+               <hi>Query</hi> 1. How ſhall one know if a diſeaſe be the effect of Witch-craft, ſeeing all grant, that ſtrange diſeaſes may happen either to Man or Beaſt, which yet are neither the pro<g ref="char:EOLhyphen"/>duct of Devils or Witches.</p>
+            <p>
+               <hi>Query</hi> 2. What meanes are beſt to be uſed for help to theſe thus bewitched. And here I would know 1. what is to be thought of cau<g ref="char:EOLhyphen"/>ſing the ſuſpected <hi>Witch,</hi> touch the afflicted Party, 2. If this be not, then what other mean is beſt.</p>
+            <p>
+               <hi>Query</hi> 3. I would further know, what will
+<pb n="4" facs="tcp:175421:3"/> prove one to be a <hi>Witch?</hi> and here 1. If bi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ter curſing and imprecations with malefices fol<g ref="char:EOLhyphen"/>lowing thereupon, will prove it? and if not that, then 2d. If a perſons often enquiring into the diſeaſe of the tormented, or their coming to viſite them unſent for; yea, after they have been diſcharg'd the houſe as being ſuſpected perſons, will do the buſineſs? Or 3d. if the af<g ref="char:EOLhyphen"/>flicted perſon his or her ſeeing, in time of th<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> tormenting fits, ſo as to know and name parti<g ref="char:EOLunhyphen"/>cular Perſons; will prove the Perſon thus ſeen known and nominate, to be a <hi>Witch.</hi> Or 4th If none of thoſe, then (pray) what will do it? your anſwers agreeably to the mind of the beſt Writers you have ſeen, is earneſtly intrea<g ref="char:EOLhyphen"/>ted by,</p>
+            <closer>
+               <signed>Your Humble Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>An anſwer to the Letter.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THo I am ſenſible, that to ſpeak on this head of witchcraft, is a very hard Task; con<g ref="char:EOLhyphen"/>ſidering eſpecially the difficulty of diſcovering <hi>Wiiches;</hi> (the ſecrecy of the grounds of witch<g ref="char:EOLhyphen"/>craft; and the cunningneſs of ſome juggling counterfits, being ſo great and many) as alſo conſidering how Satan ſeeks to imitate God i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his actions; as Scripture, and many ſtrange
+<pb facs="tcp:175421:3"/> (tho true) relations about <hi>Witches</hi> do abun<g ref="char:EOLhyphen"/>dantly make appear: for example, 2 <hi>Kings</hi> 5.27. we read that God by the Prophet makes <hi>Naamans</hi> leproſie cleave to <hi>Gehazi;</hi> ſo Satan does by the help of <hi>Witches</hi> at ſometimes, take the diſeaſe from off one perſon, &amp; layes it upon another. Alſo, we read <hi>Acts</hi> 8.39. of <hi>Philips</hi> being carried bodily out of the <hi>Eunuchs</hi> fight; ſo alſo can the Devil tranſport bodies from one place to another, as we find he took our bleſ<g ref="char:EOLhyphen"/>ſed Saviour up unto the pinacle of the Temple, <hi>Mat.</hi> 4. And he often carries his own ſervants into the aire, as he did <hi>Dr. Fauſtus,</hi> or over into forraign places; as is uſual for him to do with theſe <hi>Witches.</hi> Tho, I ſay, theſe with many moe things concurre to render the un<g ref="char:EOLhyphen"/>dertaking hard; yet I think it needs not be ill look't upon if an eſſay be made of this nature; conſidering eſpecially how much light may be borrowed from the Writings of learned men both of old and of late, the direful experience of former ages, as well as of this, having af<g ref="char:EOLhyphen"/>forded occaſion for ſuch queſtions as be pro<g ref="char:EOLhyphen"/>poſed by you, and which are current with the common people. Adventuring therefore to obey your deſire, take the Anſwers in the following Method.</p>
+            <div n="1" type="section">
+               <pb n="6" facs="tcp:175421:4"/>
+               <head>
+                  <hi>SECTION I.</hi> How to know if one be <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewitched.</head>
+               <p>IN anſwer to your firſt <hi>Quer<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> I would ſay; that no doubt moſt people may be thought too raſh in attributing to Witchcraft every diſ<g ref="char:EOLhyphen"/>eaſe that ſeems ſtrange and beyond ordinary, as is rightly inſinuated, in your ground given for your firſt <hi>Qu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry:</hi> famous writers inſtancing in their books many ſtrange and wonderful diſeaſes, yet no work of witchcraft, as are the <hi>Apoplexy, Carum, Catalepſis, Cramp,</hi> with many moe mentioned by <hi>Dr. Cotta</hi> in his <hi>Em<g ref="char:EOLhyphen"/>periks,</hi> and <hi>Dr. Maſon</hi> in his practice of phi<g ref="char:EOLhyphen"/>loſophy, and <hi>R Bernard</hi> in his Guide to Grand jury men. All which Authors do yet ſtill affirm theſe to proceed from natural cauſes, and to be curable by natural remedies; tho ſcarce would a common perſon look on the party thus diſtempered, without concluding witchcraft to be there.</p>
+               <p>However, where the diſeaſe is more then natural, and no leſs then the effect of witchcraft
+<pb n="7" facs="tcp:175421:4"/> it may be known by ſuch ſigns as <hi>Witches</hi> them<g ref="char:EOLhyphen"/>ſelves in their confeſſions, and learned Phyſici<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians have condeſcended upon as ſymptoms of Witchcraft. I only name a few which we may <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake thus. 1. When the diſeaſe is ſuch as that wiſe and skilful Phyſicians can find no probable <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſon of any natural cauſe for it, as it was with <hi>M. Throgmortons</hi> child, who would often have a great heaving &amp; ſwelling of the belly, then a paſſing to the throat ready to ſtop the breath: as alſo thruſting out her leg or arm ſo as non could bow it, with other ſuch like motions 2. When y<hi rend="sup">e</hi> tormented Party in time of ſuch fits vomite up crooked pins, coals, nails, needles, knoted hair, ſtraw, &amp;c. 3. When the tormented party in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime of their fits tell truly many things; ſome paſt, others in doing, as, where the Witch is, what ſhe is doing, ſaying, &amp;c. as hapened in the caſe of <hi>Mr. Throgmorton's</hi> elder daughter, <hi>Mrs <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ean,</hi> who could alſo tell ſome things to come, as how many in the houſe were to be bewitched, and who they were. 4. When there is ſuperna<g ref="char:EOLhyphen"/>tural ſtrength, ſo as that a very ſtrong man ſhould not be able to keep down a child of about 12. years of age as it was with one of <hi>M. Throgmor<g ref="char:EOLhyphen"/>ton</hi>'s children. Other ſigns are given by Authors, but we paſs them.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="8" facs="tcp:175421:5"/>
+               <head>
+                  <hi>SECTION II.</hi> Of Means to be uſed for helpin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the bewitched.</head>
+               <p>VArious are the methods fallen upon for e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſing the afflicted: among which is th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> made mention of in the ſecond <hi>Query</hi> of cauſi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the ſuſpected Witch touch the afflicted perſo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as if their touch could cure them: Which y<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſeems not to be a mean on which we are to re<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> (though I find not the uſe of it ſimply conde<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ned) as having neither a divine appointment, n<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a natural reaſon for it. Add to this (whi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſome have well taken notice of) that the ſuſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cted <hi>Witches</hi> either preſence or abſence, is a ve<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> uncertain thing. for 1. Their preſence or abſen<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as <hi>Witches</hi> takes it force only from their leagu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and covenant with the Devil: which as they c<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> renew at pleaſure, ſo can they make their pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſence or <hi>Touch</hi> effectual accordingly; So a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the tormented party be bad, and take fits, th<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> preſent, by indenting with the Devil over aga<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:175421:5"/> (God permitting) they may procure that in their preſence they may take no more fits; and on the contrary, if in their preſence and at their <hi>Touch</hi> they be well, ſo that their preſence there will prove nothing, either for curing the diſeaſ<g ref="char:EOLhyphen"/>ed, or making them yet worſe, and ſo thereby founding a preſumption for By-ſtanders to con<g ref="char:EOLhyphen"/>clude them <hi>Witches,</hi> 2. Their touching is an un<g ref="char:EOLhyphen"/>certain thing, becauſe (as writers on this head have ſufficiently inſtructed) by <hi>Touching</hi> they even ſometimes bewitch the afflicted party. Thus <hi>Danaeus</hi> in <hi>Dialogis ſuis de Sortiariis,</hi> wit<g ref="char:EOLhyphen"/>neſſeth, that a <hi>Witch</hi> touched but the breaſts of a woman that gave ſuck, and her milk dried up: and the forcited Rector of <hi>Batcomb, R. Bernard</hi> reports of one <hi>Mary Suton</hi> a <hi>Bedford ſhire Witch,</hi> that having but touched the neck of one of <hi>Mr. Engars</hi> ſervants, w<hi rend="sup">t</hi> her finger, he was preſently after her departure miſerably vexed, how then can thir touch cure the diſeaſed?</p>
+               <p>So then, the beſt mean is faſting and prayers, for God only can beſt free us from Divels, and in the uſe of his means alone it is, that we are to expect a bleſſing: So that if we would pre<g ref="char:EOLhyphen"/>vent <hi>Witches,</hi> and whatever elſe the Devil can do, let us always rely on God, who hath promi<g ref="char:EOLhyphen"/>ſed to ſuch, that he will cover them under his wings. &amp;c. <hi>Pſalms</hi> 91.4.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="10" facs="tcp:175421:6"/>
+               <head>
+                  <hi>SECTION III.</hi> What will prove one to be a Witch<g ref="char:punc">▪</g>
+               </head>
+               <p>GReat is the Myſtery of iniquity, and its hard to diſcover the Members of that King<g ref="char:EOLunhyphen"/>dom of darkneſs, where the King is Satan, the fiery Dragon, the roaring Lyon, and deceive<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Nations; and where the ſubjects are fag<g ref="char:EOLunhyphen"/>gots of hell, Deceivers and deceived: Yet thorough the Lords bleſſing on the means and methods fallen upon for detecting ſuch, they may be known, let us then touch at theſe, and firſt negatively what will not prove one to be <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Witch,</hi> and then poſitively, what will.</p>
+               <p>To begin then and go throw with the ſeve<g ref="char:EOLunhyphen"/>ral particulars contained in the third <hi>Query</hi> le<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us conſider the firſt particular which is if bitte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> curſings &amp; imprecations, evil following there upon, will prove one to be a <hi>VVitch,</hi> and to thi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it is anſwered, that tho <hi>VVitches</hi> have bee<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> known thus to bewitch people by <hi>Curſing</hi> the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whereupon preſently evil followed to the pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſon
+<pb n="11" facs="tcp:175421:6"/> thus <hi>Curſed,</hi> yet it is no more then a pre<g ref="char:EOLhyphen"/>ſumption of ones being a <hi>VVitch,</hi> for firſt ſuch <hi>Curſings</hi> and <hi>Imprecations</hi> are in ſome no other then the effect of a <hi>natural conſtitution,</hi> and ſo may be acted oftner than once or twice: Con<g ref="char:EOLhyphen"/>ſtitutions (in the Judgment of the learned) differing from habits moſtly in name, when they come to any perfection; and habits being got by acts frequently repeated. 2. Becauſe, as Sa<g ref="char:EOLhyphen"/>tan may get a permiſſion from God, to work <hi>natural diſeaſes</hi> which do break forth upon cur<g ref="char:EOLhyphen"/>ſing, ſo doubtleſs he improves it ſubtily, of which ſome do thus conceive. They ſay, the Devil he knows when his power to do hurt is granted him of God; as alſo, he knows the growing, ripening, and breaking forth of a diſeaſe upon man or beaſt. Again, ere natures act thus break out, he ſtirs up ſome occaſion to make the party againſt whom his deſign is, to fall out with ſome angry neighbour, which being gain'd, Satan ſtirs up people hereupon, becauſe of one or two ſuch practiſes, to purſue the neighbour to death, as becoming by her ill tongue a <hi>VVitch;</hi> when as, tho ſhe be otherwiſe peſtilentious enough, yet poſſibly is no <hi>VVitch.</hi> So then we conclude, that however this may be an <hi>Item</hi> to ſuch ill na<g ref="char:EOLhyphen"/>tur'd curſers and railers to forbear further pro<g ref="char:EOLhyphen"/>vocking of God by ſuch practices to give them
+<pb n="12" facs="tcp:175421:7"/> over to Satans power; yet I ſee not why cu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſings with harm following them are any oth<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> then a preſumption (however great it be) th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> one is a <hi>VVitch.</hi>
+               </p>
+               <p n="2">2. As to a perſons often enquiring into th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſeaſe of the tormented, or their coming to v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſite them unſent for, yea perhaps after they hav<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> been diſcharg'd the houſe, as perſons under ſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>picion, its anſwered in one word, that this is n<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> other then a preſumption, &amp; that for this reaſo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> among others, that revengeful ſpirits (thoug<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they be no <hi>VVitches</hi>) having once curſed, an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hearing of ſome ſudden miſchance followin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in order of time thereupon, may inquire afte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the afflicted party, yea viſite him or her, whil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> under this fit of curſed joy conceived in them at the hearing of ſuch news, when yet for al<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this there is perhaps no league with the Devil and as for their viſiting undeſir'd, yea, whe<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> prohibite and diſcharg'd ſome have rightly im<g ref="char:EOLhyphen"/>puted the ſame to the confidence, or rather im<g ref="char:EOLhyphen"/>pudence of the poorer, and unmannerly ſort of people.</p>
+               <p n="3">3. As to the afflicted perſons ſeeing, know<g ref="char:EOLunhyphen"/>ing and naming diverſe perſons in time of thei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fits, as their tormentors; as it was with <hi>Mr Throgmortons</hi> Children (as the Author of the Relation of <hi>VVarboys VVitches</hi> does atteſt) ye<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:175421:7"/> will not y<hi rend="sup">t</hi> prove y<hi rend="sup">e</hi> perſon or perſons ſo known, &amp; nominate, to be all <hi>VVitches,</hi> for 1. as to their being <hi>ſeen,</hi> doubtleſs tho the Devil cannot cre<g ref="char:EOLhyphen"/>ate any inward <hi>ſpecies</hi> or repreſentation, this being a work of <hi>Omnipotencie</hi> (as <hi>Holy</hi> and <hi>lear<g ref="char:EOLhyphen"/>ned Mr. Durham</hi> hath obſerved) yet God per<g ref="char:EOLhyphen"/>mitting him; he by working upon what is al<g ref="char:EOLhyphen"/>ready within the perſon, may miſrepreſent ob<g ref="char:EOLhyphen"/>jects, by diſturbing inwardlie the Faculties &amp; Organs: ſo that he can preſentiate to the <hi>Phana<g ref="char:EOLunhyphen"/>taſie</hi> ſuch perſons, as he knows the tormented party abhors to ſee, and uſeth to fear: for if he could repreſent a ſeeming <hi>Samuel,</hi> much more a Graceleſs man or woman, to deceive the Fan<g ref="char:EOLhyphen"/>cy of diſturbed minds of afflicted Perſons; and yet theſe graceleſs perſons may be no <hi>VVitches,</hi> for doubtleſs in this the Devil may lie, as well as ſpeak true. 2. As to their being named, its but the Devils Teſtimonie, which is not to be laid weight on, <hi>in the matter of life and death;</hi> ſeing he may accuſe an innocent, as hiſtories abundantly declare</p>
+               <p>
+                  <hi>Sir,</hi> I perſwade my ſelf you take up my mind in this matter better then to think any favour to be intended or allowed, by what I have ſaid of thir <hi>Negative marks</hi> (as I called them for diſtinctions ſake) to any of theſe members of Satans Kingdom the <hi>VVit hes:</hi> God forbid any
+<pb n="14" facs="tcp:175421:8"/> (far leſs I) ſhould in the leaſt Favour ſuch for whom God hath told us in his word he hath no favor they continuing ſuch; for however I have all alongſt called theſe but <hi>Preſumptions,</hi> in ſo do<g ref="char:EOLhyphen"/>ing; I ſay no other then what pious and learn'd Writers on this head have ſpoken, who withal are of opin on (as I alſo am) that ſuch preg<g ref="char:EOLhyphen"/>nant and ſhrewd preſumptions ſufficiently wit<g ref="char:EOLhyphen"/>neſſed are juſt cauſe of impriſonment, and are worthy (after tryal) of moſt ſevere and con<g ref="char:EOLhyphen"/>dign puniſhment<g ref="char:punc">▪</g> but ere the life can be taken away from them, it will perhaps be found need<g ref="char:EOLhyphen"/>ful, that a league with the Devil be once proven, for underſtanding of this, let us premiſe theſe 4. or 5. things. 1. that the Devil ſeeks not to make any a <hi>Witch</hi> whom he finds not ſome way pre<g ref="char:EOLhyphen"/>par'd either by impenitency and obduredneſs, diſtemperedneſs of paſſion, prophaneſs, and the like: for he will not readily nor willingly at<g ref="char:EOLhyphen"/>taque and ſurprize, where he thinks not to gain ground. 2. Finding man or woman thus prepa<g ref="char:EOLhyphen"/>red, he waits his opportunity of appearing to them viſibly, ſometimes in one ſhape, ſometime in another, varying according to the nature, quality, and condition of the perſons to whom he thus appears: thus he is ſaid to have appear<g ref="char:EOLhyphen"/>ed to <hi>Dr Fauſtus</hi> in the habite of ſome religio<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> perſon; and now it is, that he works upon the
+<pb n="15" facs="tcp:175421:8"/> poor creature, whom he at one time allures by many perſwaſives, at other times ſurprizing them, frights them into a complyance with his overtures, according as he finds them igno<g ref="char:EOLhyphen"/>rant or witty: for he's a cunning Engineer, who attacks towns according to their fortifica<g ref="char:EOLhyphen"/>tion, ſituation, or garriſon: he underſtands who among men and women are weak, and on what ſide; and agreeably, ſome are min'd, others bomb'd, ſome won by ſtorm, others by com<g ref="char:EOLhyphen"/>poſition, others again are ſtarved into a ſurren<g ref="char:EOLhyphen"/>der, 3 That which he aims at in all thir aſſaults, and in order whereunto he appears once, or oftner, as he finds need is, to draw the poor, impenitent, and obdured creature into a league with himſelf, which League or Covenant, Di<g ref="char:EOLhyphen"/>vines makes to be twofold: the one implicite, ſecret and cloſs; wherein is a mutual conſent, but without any expreſs terms on either ſide; <hi>Mr. Perkins</hi> in his diſcourſe of Witchcraft. chap. 2. Explains this, while he ſays that when a perſon deſires in heart to have ſuch or ſuch a thing effected by ſuperſtitious forms, <hi>&amp;c.</hi> And the Devil conſents thereunto, if he then do the buſineſs, there is a ſecret compact: thus ſuch as by certain forms of words and prayers, call upon the Devil; and when tho they know it to be unwarantable, yet will do it, becauſe they
+<pb n="16" facs="tcp:175421:9"/> find an effect anſwerable to their expectation in uſing ſuch charms and ſpells, they are in Co<g ref="char:EOLhyphen"/>venant with the Devil, though they will not let themſelves know or think it. Now this ſecret compact Satan ſometimes, and as to ſome per<g ref="char:EOLhyphen"/>ſons, reſts ſatisfied with, as when the man or woman is of conſiderable knowledge, and hath much <hi>Mother VVit</hi> (as we commonly call it) and ſo is ſuch as he knows will not be eaſily drawn into a more formal and expreſs league with him; or when he is content they ſhould be ſhinning profeſſors and ſuch of whom he de<g ref="char:EOLhyphen"/>ſigns to ſerve himſelf moſtly, if not only, in mat<g ref="char:EOLhyphen"/>ters ſeemingly good. The other ſort of league is that which is more expreſs and formal, and when there be mutual conditions: the <hi>VVitch</hi> on his or her, part giving over their Soul (and ſometimes alſo the body) into Sathans power, he on the other part, promiſes great things t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them, knowledge to the ignorant, revenge to the envious, and wrathful, <hi>&amp;c.</hi> though he often breaks his promiſe to them, as he did to a <hi>Hu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>garian VVitch,</hi> of whom <hi>I</hi> have read, who being put in priſon, and wanting food, ſhe did eat he own fl ſh and ſo periſhed: Satan her Maſter never once helping her, if it was not to deſtro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her ſelf, ſooner then otherwiſe ſhe might have done. But then 4. the Covenant thus made, he
+<pb n="17" facs="tcp:175421:9"/> proceeds to confirm it, which (ſome ſay) muſt be done by blood: therefore, ſome offer him a Sacrifice; perhaps of a cat, dog, <hi>&amp;c.</hi> poſſibly he condeſcends thus far to ſome <hi>VVitches</hi> of a more then ordinary ſtation: but however I will not be poſitive in this; only I find it aſſer<g ref="char:EOLhyphen"/>ted by ſome, that he will not part thus with your ordinary <hi>VVitches,</hi> but muſt needs <hi>Suck Blood</hi> of them which is done by <hi>Spirits,</hi> and that in ſeveral parts of the body, as the crown of the head, under the ear, the chin, <hi>&amp;c,</hi> as witches of whom I have read, have confeſſed before the Judges. Next follows the <hi>VVitch Mark,</hi> ſome<g ref="char:EOLhyphen"/>times like a blew ſpot, or a little tate, or reid ſpots like flea-biting, ſometimes alſo the fleſh is ſunk in, and hallow, and this is put in ſecret pla<g ref="char:EOLhyphen"/>ces, as among the hair of the Head, or eye<g ref="char:EOLhyphen"/>brows, within the lips, under the arm-pits, and even in the moſt ſecret parts of the Body. 5. Thus the Devil &amp; they becoming familiar, they get from him <hi>Familiar Spirits,</hi> ſome one, ſome moe, with whom they conſult, and act, and o<g ref="char:EOLhyphen"/>ver which Spirits he makes them believe they have all power, and can command them at pleaſure: and in this they aſſume to themſelves a kind of Glory, to think that they have <hi>Spirits</hi> at their nodd, to ſend forth for the torment of others; and herein they rejoyce, that they can
+<pb n="18" facs="tcp:175421:10"/> keep others in awe by ſuch thoughts of them or words to them, whereupon follows hurt and miſchief. Some have ſo far run on in maintain<g ref="char:EOLhyphen"/>ing this point of it, anent the <hi>Witches</hi> getting fa<g ref="char:EOLunhyphen"/>miliar Spirits, at that they think, that <hi>Witch<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> work all their malice and miſchief by thoſe cur<g ref="char:EOLhyphen"/>ſed <hi>Caytiffes;</hi> and ſo they make three things concure to the bewitching of a Perſon; <hi>viz.</hi> a Divine permiſſion, a Deviliſh operation, or the evil Spirits working: and laſtly, the <hi>Wit<g ref="char:EOLhyphen"/>ches</hi> conſent; So that the Devil does all, and they conſent to all, which to wit, is done in their behalf, for no doubt, Satan can go of, and for himſelf, where he hath no league with the Witch, thus ſome define a <hi>Witch</hi> to be ſuch <hi>as do act beyond the ordinary power of Nature, by the help of wicked Spirits.</hi> Athen. Merc. V. 1. N. 3. Q. 6.</p>
+               <p>Now, before we proceed further, we ſhall take notice of this one <hi>Collorary</hi> that may be drawn from what we have now ſaid anent the Covenant with the Devil. From hence poſſi<g ref="char:EOLhyphen"/>bly we may gather a reaſon, <hi>why Witches them ſelves are not afraid to met with the Devil?</hi> Fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one would think that <hi>Humane Nature</hi> migh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> juſtly fright at the appearance, if not the <hi>am<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſing</hi> name of <hi>DEVIL.</hi> We would ſay there<g ref="char:EOLhyphen"/>fore, that we doubt nothing, but at ſometime<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Devil appears even to his own in frightful
+<pb n="19" facs="tcp:175421:10"/> ſhapes, to their great terror, eſpecially if he be angry at them, and deſigns violence unto them, upon their refuſing to do as he bids them, as <hi>Bernard</hi> reports he did to old <hi>Demb<g ref="char:EOLhyphen"/>dike,</hi> whom he puſht into a Ditch, becauſe ſhe would not go help <hi>Chattox</hi> another <hi>VVitch,</hi> (whom ſhe could not abide) to make Picturs. The ſame Author ſays, the Devil came ſome<g ref="char:EOLhyphen"/>times to <hi>Witch Chattox</hi> gaping upon her in the Form of a <hi>Beare,</hi> with open month as if he would have worried her, yet I think the rea<g ref="char:EOLhyphen"/>ſon why for ordinary they are not ſo much a<g ref="char:EOLhyphen"/>fraid to meet, ſpeak to and keep Caballs with him; is, that they being now in Cove<g ref="char:EOLhyphen"/>nant with him, dream of no hurt in the buſi<g ref="char:EOLhyphen"/>neſs: yea, they fancy they have him at Com<g ref="char:EOLhyphen"/>mand. And if it be ſaid, its ſtrange they have no checks of Conſcience in the mean time be<g ref="char:EOLhyphen"/>cauſe of their League w<hi rend="sup">t</hi> the Devil: We anſwer, that it is not ſo ſtrange as ſad, and to be lamen<g ref="char:EOLhyphen"/>ted; For they being readily before that given up of God to a reprobate mind, have their Conſciences ſeared, ſo as that they want all ſenſe and feeling of ſin.</p>
+               <p>But now to come to the queſtion more cloſely, and to ſhew how one may be convic<g ref="char:EOLhyphen"/>ted of this their league with the Devil; this compact how ſecretly ſo ever made, is to be ſearcht into, and all the preſumptions hitherto ſpoken of, muſt tend to prove and diſcover
+<pb n="20" facs="tcp:175421:11"/> this compact, which ſome think may be got<g ref="char:EOLhyphen"/>ten done by a narrow ſcrutiny and ſearch into theſe among other evidences of this Covenant. 1. By a <hi>Witches Mark.</hi> We told already where this is to be found, it muſt therefore be again &amp; again diligently ſearched for; and leaſt it b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> miſtaken for a Natural mark, it is to be obſer<g ref="char:EOLhyphen"/>ved, that this is Inſenſible, ſo that being pric<g ref="char:EOLunhyphen"/>ked it will not bleed, as Natural marks wil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do, But what if they hide them? Or what i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they find a way to remove them? We anſwe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that God in his providence will ſcarce ſuffer i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be ſo; or if it ſo fall out, then it grows a<g ref="char:EOLunhyphen"/>gain, and comes to its old Form, if we ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> credit the <hi>Grand Witch Lewis Gaufridus</hi> a ric<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and learn'd Prieſt, as <hi>Bernard</hi> calls him: S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that, tho this mark be not found at firſt, it may be diſcovered at length. 2d. By <hi>Witche<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> words, as their fortelling what ſhall happen to others the ſame found true, and their boaſtin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereof afterwards; as alſo, their ſpeaking o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tranſportation from home to forraign places <hi>&amp;c.</hi> 3d. <hi>Witches deeds;</hi> as their feeding crea<g ref="char:EOLunhyphen"/>tures ſecretly, which ſome ſay they ſend their errands; their making of pictures, giving an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/> thing to any Man which cauſes pains or death<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as is, the peruſing one ſhirt or cloaths, retur<g ref="char:EOLunhyphen"/>ning the ſame again, and the owner upo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:175421:11"/> wearing them, and all the time of his or her wearing them, pained or tormented. 4th. <hi>The confeſſion of Fellow-Witches,</hi> eſpecially if appearing penitent, and being called one by one yet all agree in their Teſtimony; as their having ſeen, and been with them at their ſuſ<g ref="char:EOLhyphen"/>pected Deviliſh meetings, plotings. <hi>&amp;c.</hi> And here comes in the report of the <hi>Good or white Witch</hi> (as they call him or her) whereby is meant, theſe <hi>Healers</hi> or <hi>Bleſſers</hi> (as ſome call them) who pretend to know who are bad <hi>Witches,</hi> and where they dwell; and how to heal blaſting, for ſpeaking <hi>&amp;c.</hi> Theſe being themſelves <hi>Witches</hi> and in league with the De<g ref="char:EOLhyphen"/>vil, beſt know who theſe are, and what be their practiſes. 5. <hi>A Divine witneſs.</hi> where God condeſcends to give it, as, when they pray for a token from God of diſpleaſure againſt them if they be guilty; and it accordingly falls out. As it is reported to have been with one <hi>Mother Samuel the Warhoys Witch</hi> that tormented <hi>Mr. Throgmortons</hi> children, who by bitter curſes on her ſelf if ſhe were guilty; preſently her <hi>Chin</hi> did <hi>bleed,</hi> the place (as afterwards ſhe con<g ref="char:EOLhyphen"/>feſt) where the <hi>Spirits</hi> did <hi>Suck blood,</hi> 6th. And laſtly, <hi>The confeſſion of the Witches them<g ref="char:EOLhyphen"/>ſelves.</hi> Sometimes the arraign'd <hi>Witches</hi> con<g ref="char:EOLhyphen"/>feſs their being in Covenant with the Devil,
+<pb n="22" facs="tcp:175421:12"/> partly upon being charg'd with the guilt, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of their own accord, or finally, being draw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereto through terror of Conſcience.</p>
+               <p>But now <hi>Sir,</hi> after all that is ſaid, I deſi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not to be ſo underſtood, as if hereby I d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſign'd to force any into a complyance with th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Concluſions already laid down, further th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the reaſons brought by grave Authors alre<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> hinted will perſwade; nor do I think the Opi<g ref="char:EOLunhyphen"/>nions or Practiſes of others which may <hi>ſe<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> to run croſs to ſomething hitherto aſſerted are to be taxed by any; ſo that what is he<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſaid is only to ſhew you what hath given th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Anſwerer</hi> to your Queſtions moſt ſatisfactio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in theſe Points. For a concluſion therefore I would ſay, that tho I have adventured on theſe few lines in anſwer to your <hi>Queries,</hi> therein I do not, nor ineeed can I expect to ſatisfie all even of the more Judicious, but am apprehen<g ref="char:EOLhyphen"/>ſive on the contrary, that I may diſpleaſe ſom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of them (for which I ſhould yet be ſorry) who may poſſibly think that the greatneſs o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Task might have forc'd me to a more aw<g ref="char:EOLunhyphen"/>full diſtance, and a giving way to better an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> greater Undertakers; but finding none hither<g ref="char:EOLhyphen"/>to forward for allaying vulgar rude notions <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bout your momentuous queſtions, I have (ye<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:175421:12"/> with all ſubmiſſion) adventur'd on this ſhort eſſay the queſtions handled therein, ra<g ref="char:EOLhyphen"/>ther then the anſwers, being ſuch as may puſh others forward to ſe<g ref="char:EOLhyphen"/>cond and much better cares about them; which ſhould much <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <closer>
+                  <salute>Sir,</salute>
+                  <signed>Your Friend and Servant.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
